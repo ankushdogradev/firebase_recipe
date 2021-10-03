@@ -1,7 +1,8 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import firebase from "./FirebaseConfig";
+import "./App.scss";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <div className="title-row">
@@ -9,6 +10,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;
