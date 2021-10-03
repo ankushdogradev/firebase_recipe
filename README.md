@@ -1,4 +1,4 @@
-# Firebase
+# Firebase-Recipe
 
 ## What is Firebase?
 
