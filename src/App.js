@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import firebaseAuthService from "./FirebaseAuthService";
-import firebase from "./FirebaseConfig";
+// import firebase from "./FirebaseConfig";
 import LoginForm from "./components/LoginForm";
 import "./App.scss";
 
